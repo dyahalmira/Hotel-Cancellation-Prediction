@@ -80,3 +80,7 @@ Analisis SHAP menunjukkan fitur-fitur kunci yang mendorong keputusan pembatalan:
 1.  **Strategi *Overbooking* Adaptif:** Untuk pemesanan yang diprediksi berisiko tinggi batal (terutama dari segmen **"Online TA"**), tim *Revenue Management* dapat menerapkan strategi *overbooking* yang lebih agresif untuk memaksimalkan okupansi.
 2.  **Insentif Konfirmasi:** Tawarkan insentif konfirmasi atau *upgrade* terbatas kepada tamu dengan risiko batal tinggi untuk mengamankan pemesanan mereka.
 3.  **Penggunaan Deposit:** Mengingat Deposit Non-Refundable memiliki tingkat pembatalan tertinggi (90%), kebijakan deposit harus diulas untuk memitigasi risiko.
+   
+
+### Streamlit
+berikut file demo streamlit beserta model yang digunakan :https://drive.google.com/drive/folders/1gB_CpjTo-OUu_eGpjGYbrVHhCBhuwIkq?usp=sharing
