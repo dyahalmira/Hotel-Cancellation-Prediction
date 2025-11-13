@@ -1,8 +1,3 @@
-# Hotel-Cancellation-Prediction
-Tentu, saya akan membuatkan *README.md* untuk *repository* GitHub Anda, mencakup penjelasan, daftar *library*, metrik, pemilihan *scoring*, hingga dampak bisnis, berdasarkan data yang Anda berikan.
-
----
-
 # 🏨 Hotel Booking Cancellation Prediction: Mengurangi Kerugian Overbooking dengan Machine Learning
 
 Model Klasifikasi Biner ini dibangun untuk memprediksi probabilitas pembatalan pemesanan hotel, memungkinkan tim *Revenue Management* mengambil tindakan proaktif untuk memaksimalkan pendapatan dan memitigasi risiko *overbooking* yang tidak terkelola.
