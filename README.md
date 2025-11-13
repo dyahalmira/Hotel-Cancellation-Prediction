@@ -25,10 +25,7 @@ Membangun model *Machine Learning* Klasifikasi Biner (`is_canceled` target: 0/1)
 
 ### Metrik yang Digunakan
 Model dievaluasi menggunakan metrik klasifikasi standar:
-* `Accuracy Score`
-* `Precision Score`
 * `Recall Score`
-* `F1 Score`
 * `Confusion Matrix`
 * `PR AUC (Average Precision Score)`
 
